@@ -1,0 +1,14 @@
+init...
+buildGame
+res init ok
+init game render
+init game inputer
+init scroll
+init stagectrl
+init loading
+init game data
+init config
+init inputer config
+init ok
+loading tester...
+loading tester error:Error #2035
